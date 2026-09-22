@@ -1,0 +1,22 @@
+{
+  "ts": 1790067361708,
+  "parcels": {},
+  "users": [
+    {
+      "email": "talnasser1@ksu.edu.sa",
+      "role": "editor"
+    },
+    {
+      "email": "kaledrisi@ksu.edu.sa",
+      "role": "editor"
+    },
+    {
+      "email": "falahmary@ksu.edu.sa",
+      "role": "viewer"
+    },
+    {
+      "email": "invest@ksu.edu.sa",
+      "role": "editor"
+    }
+  ]
+}

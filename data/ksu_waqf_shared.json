@@ -1,5 +1,5 @@
 {
-  "ts": 1790701109523,
+  "ts": 1790701113925,
   "parcels": {
     "C2": {
       "coords": [
@@ -4922,12 +4922,13 @@
       ],
       "coordsFixed": true,
       "nameAr": "ارض بجانب مركز الامير نايف للابحاث",
+      "owner": "الجامعة",
       "use": "MIXED USE",
       "sec": "campus",
       "area": 70641.9482421875,
       "city": "الحرم الجامعي",
       "updatedBy": "kaledrisi@ksu.edu.sa",
-      "updatedAt": 1790701109523
+      "updatedAt": 1790701113925
     }
   },
   "users": [

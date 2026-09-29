@@ -1,5 +1,5 @@
 {
-  "ts": 1790700928659,
+  "ts": 1790700953427,
   "parcels": {
     "C2": {
       "coords": [
@@ -3380,9 +3380,10 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "بجانب أرض الحديقة الأولى",
       "owner": "الجامعة",
       "updatedBy": "kaledrisi@ksu.edu.sa",
-      "updatedAt": 1790700928659
+      "updatedAt": 1790700953427
     },
     "CC50": {
       "coords": [

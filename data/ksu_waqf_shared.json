@@ -1,5 +1,5 @@
 {
-  "ts": 1790701211573,
+  "ts": 1790701289301,
   "parcels": {
     "C2": {
       "coords": [
@@ -4733,9 +4733,9 @@
         ]
       ],
       "coordsFixed": true,
-      "owner": "الجامعة",
+      "owner": "RVC",
       "updatedBy": "kaledrisi@ksu.edu.sa",
-      "updatedAt": 1790699595997
+      "updatedAt": 1790701289301
     },
     "CC56": {
       "coords": [

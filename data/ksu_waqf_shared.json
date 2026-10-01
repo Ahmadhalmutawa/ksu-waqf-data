@@ -1,5 +1,5 @@
 {
-  "ts": 1790838579515,
+  "ts": 1790838582390,
   "parcels": {
     "C2": {
       "coords": [
@@ -5411,8 +5411,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "المزاحمية / مخرج 9",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790838579515
+      "updatedAt": 1790838582390
     }
   },
   "users": [

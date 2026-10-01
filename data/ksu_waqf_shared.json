@@ -1,5 +1,5 @@
 {
-  "ts": 1790837591492,
+  "ts": 1790837594084,
   "parcels": {
     "C2": {
       "coords": [
@@ -362,9 +362,11 @@
       ],
       "coordsFixed": true,
       "nameAr": "أرض حوطة سدير",
+      "useCurrent": "أرض فضاء",
+      "useProposed": "",
       "owner": "الجامعة",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790837591492
+      "updatedAt": 1790837594084
     },
     "C3": {
       "coords": [

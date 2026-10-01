@@ -1,5 +1,5 @@
 {
-  "ts": 1790838362946,
+  "ts": 1790838366976,
   "parcels": {
     "C2": {
       "coords": [
@@ -5306,8 +5306,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الباحة",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790838362946
+      "updatedAt": 1790838366976
     }
   },
   "users": [

@@ -1,5 +1,5 @@
 {
-  "ts": 1790841550881,
+  "ts": 1790841554912,
   "parcels": {
     "C2": {
       "coords": [
@@ -5972,9 +5972,10 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الملز - كلية المجتمع",
       "owner": "الجامعة",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790841550881
+      "updatedAt": 1790841554912
     }
   },
   "users": [

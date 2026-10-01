@@ -1,5 +1,5 @@
 {
-  "ts": 1790838839066,
+  "ts": 1790838842232,
   "parcels": {
     "C2": {
       "coords": [
@@ -5519,8 +5519,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الرياض – عارض",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790838839066
+      "updatedAt": 1790838842232
     }
   },
   "users": [

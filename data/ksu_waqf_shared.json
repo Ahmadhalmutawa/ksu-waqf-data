@@ -1,5 +1,5 @@
 {
-  "ts": 1790839077917,
+  "ts": 1790839082597,
   "parcels": {
     "C2": {
       "coords": [
@@ -5583,8 +5583,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "القويعية",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790839077917
+      "updatedAt": 1790839082597
     }
   },
   "users": [

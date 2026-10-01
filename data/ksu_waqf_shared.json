@@ -1,5 +1,5 @@
 {
-  "ts": 1790840595011,
+  "ts": 1790840598424,
   "parcels": {
     "C2": {
       "coords": [
@@ -5815,8 +5815,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الدرعية – الوصيل",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790840595011
+      "updatedAt": 1790840598424
     }
   },
   "users": [

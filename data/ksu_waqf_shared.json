@@ -1,5 +1,5 @@
 {
-  "ts": 1790840834803,
+  "ts": 1790840838517,
   "parcels": {
     "C2": {
       "coords": [
@@ -5859,9 +5859,10 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "مستفى الملك عبدالعزيز الجامعي",
       "owner": "الجامعة",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790840834803
+      "updatedAt": 1790840838517
     }
   },
   "users": [

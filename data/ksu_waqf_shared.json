@@ -1,5 +1,5 @@
 {
-  "ts": 1790844405955,
+  "ts": 1790844410315,
   "parcels": {
     "C2": {
       "coords": [
@@ -6121,8 +6121,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الرياض – ديراب",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790844405955
+      "updatedAt": 1790844410315
     }
   },
   "users": [

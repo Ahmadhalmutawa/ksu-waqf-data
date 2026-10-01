@@ -1,5 +1,5 @@
 {
-  "ts": 1790836928084,
+  "ts": 1790836942177,
   "parcels": {
     "C2": {
       "coords": [
@@ -5123,12 +5123,13 @@
       ],
       "coordsFixed": true,
       "nameAr": "مبنى مواقف مستفى الملك عبدالعزيز",
+      "owner": "الجامعة",
       "use": "AMENITY",
       "sec": "out",
       "area": 9482.9189453125,
       "city": "الرياض",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790836928084
+      "updatedAt": 1790836942177
     }
   },
   "users": [

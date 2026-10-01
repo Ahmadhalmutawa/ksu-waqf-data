@@ -1,5 +1,5 @@
 {
-  "ts": 1790839658682,
+  "ts": 1790839669650,
   "parcels": {
     "C2": {
       "coords": [
@@ -5663,8 +5663,9 @@
         ]
       ],
       "coordsFixed": true,
+      "nameAr": "الرياض – عليشة (1)",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790839658682
+      "updatedAt": 1790839669650
     }
   },
   "users": [

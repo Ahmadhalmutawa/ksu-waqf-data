@@ -1,5 +1,5 @@
 {
-  "ts": 1792385230409,
+  "ts": 1792385246908,
   "parcels": {
     "C2": {
       "coords": [
@@ -3910,10 +3910,10 @@
       "nameAr": "خدمات مشروع الدرعية رقم 1",
       "owner": "الجامعة",
       "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1792385230409,
+      "updatedAt": 1792385246908,
       "area": 121904.6748046875,
       "useCurrent": "أرض الحرم",
-      "useProposed": ""
+      "useProposed": "خدمات مشروع الدرعية رقم 1"
     },
     "CC50": {
       "coords": [

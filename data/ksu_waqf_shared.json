@@ -1,5 +1,5 @@
 {
-  "ts": 1792404306180,
+  "ts": 1792404540594,
   "parcels": {
     "C2": {
       "coords": [
@@ -180,8 +180,8 @@
       ],
       "coordsFixed": true,
       "nameAr": "أرض سكن اعضاء هيئة التدريس 2",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 208075.4208984375
     },
     "N3": {
@@ -262,7 +262,7 @@
       "area": 314237.46484375,
       "city": "الحرم الجامعي",
       "updatedBy": "kaledrisi@ksu.edu.sa",
-      "updatedAt": 1790697102655
+      "updatedAt": 1792404540593
     },
     "N4": {
       "coords": [
@@ -305,8 +305,9 @@
       "sec": "campus",
       "area": 6066.3203125,
       "city": "الحرم الجامعي",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "owner": "الجامعة"
     },
     "N5": {
       "coords": [
@@ -338,7 +339,8 @@
       "area": 12440.3505859375,
       "city": "الحرم الجامعي",
       "updatedBy": "kaledrisi@ksu.edu.sa",
-      "updatedAt": 1790697632422
+      "updatedAt": 1792404540593,
+      "owner": "الجامعة"
     },
     "O1": {
       "coords": [
@@ -1420,8 +1422,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 14599.86328125
     },
     "C18": {
@@ -1529,8 +1531,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 12990.8818359375
     },
     "C19": {
@@ -1674,8 +1676,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 49139.609375
     },
     "C20": {
@@ -1703,8 +1705,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 25524.41796875
     },
     "C21": {
@@ -1768,8 +1770,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 44266.76171875
     },
     "C22": {
@@ -2828,8 +2830,8 @@
       ],
       "coordsFixed": true,
       "owner": "RVC",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 29318.080078125
     },
     "CC66": {
@@ -3460,9 +3462,9 @@
         ]
       ],
       "coordsFixed": true,
-      "owner": "اراضي مطلوبة للتحويل 1",
-      "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1792351468006,
+      "owner": "الجامعة",
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 67670.78125,
       "nameAr": "أرض بجانب  سكن الطلاب",
       "useCurrent": "أرض الحرم",
@@ -3863,43 +3865,55 @@
       ],
       "coordsFixed": true,
       "owner": "الجامعة",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 81731.6279296875
     },
     "CC59": {
       "coords": [
         [
-          24.7316518524196,
-          46.61807789644514
+          24.731861143951235,
+          46.6180157661438
         ],
         [
-          24.73180770174029,
-          46.615310499653425
+          24.72870217546695,
+          46.6181230545044
         ],
         [
-          24.730424532195432,
-          46.615932627614335
+          24.72870217546695,
+          46.61586999893189
         ],
         [
-          24.729684237951506,
-          46.614881445887264
+          24.729521174999032,
+          46.6150975227356
         ],
         [
-          24.728768604766216,
-          46.615889722237725
+          24.73010617136363,
+          46.61423921585084
         ],
         [
-          24.728749123135838,
-          46.61801353838023
+          24.73080816336983,
+          46.61441087722779
+        ],
+        [
+          24.731646648629813,
+          46.6150975227356
+        ],
+        [
+          24.732270633992314,
+          46.61619186401368
+        ],
+        [
+          24.732251134497115,
+          46.61724328994752
         ]
       ],
       "coordsFixed": true,
-      "nameAr": "خدمات مشروع الدرعية رقم 1",
+      "nameAr": "بجانب أرض الحديقة الأولى",
       "owner": "الجامعة",
-      "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1792385459077,
-      "area": 85011.5859375,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 121904.6748046875,
       "useCurrent": "أرض الحرم",
       "useProposed": "خدمات مشروع الدرعية رقم 1"
     },
@@ -4299,9 +4313,9 @@
         ]
       ],
       "coordsFixed": true,
-      "owner": "اراضي مطلوبة للتحويل 1",
-      "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1792351695803,
+      "owner": "الجامعة",
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 23742.1025390625,
       "nameAr": "أرض داخل مدينة الطلابات"
     },
@@ -5267,8 +5281,8 @@
       ],
       "coordsFixed": true,
       "owner": "الجامعة",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 23306.6982421875
     },
     "CC69": {
@@ -5768,8 +5782,8 @@
       ],
       "coordsFixed": true,
       "owner": "الجامعة",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 3921.935546875
     },
     "C36": {
@@ -6116,8 +6130,8 @@
       "sec": "campus",
       "area": 25436.42578125,
       "city": "الحرم الجامعي",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "useCurrent": "مبنى بحثي"
     },
     "N7": {
@@ -6347,8 +6361,8 @@
       "sec": "out",
       "area": 9482.9189453125,
       "city": "الرياض",
-      "updatedBy": "almutawa@ksu.edu.sa",
-      "updatedAt": 1790836944845
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593
     },
     "O2": {
       "coords": [
@@ -6383,8 +6397,8 @@
       ],
       "coordsFixed": true,
       "nameAr": "رماح – حي الروضة",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 19382.25390625
     },
     "O3": {
@@ -6424,9 +6438,10 @@
       ],
       "coordsFixed": true,
       "nameAr": "الدمام – حي النوارس",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
-      "area": 9680.5869140625
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 9680.5869140625,
+      "owner": "RVC"
     },
     "O4": {
       "coords": [
@@ -6720,8 +6735,8 @@
       ],
       "coordsFixed": true,
       "nameAr": "الرياض – عريض",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 256352.8291015625
     },
     "O7": {
@@ -6826,9 +6841,10 @@
       ],
       "coordsFixed": true,
       "nameAr": "العُلا",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
-      "area": 1716.7451171875
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 1716.7451171875,
+      "owner": "RVC"
     },
     "O11": {
       "coords": [
@@ -6867,8 +6883,8 @@
       ],
       "coordsFixed": true,
       "nameAr": "الرياض – عليشة (1)",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 12017.125
     },
     "O12": {
@@ -6892,9 +6908,10 @@
       ],
       "coordsFixed": true,
       "nameAr": "الرياض – الفاخرية",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
-      "area": 10971.16015625
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 10971.16015625,
+      "owner": "RVC"
     },
     "O13": {
       "coords": [
@@ -7021,10 +7038,11 @@
         ]
       ],
       "coordsFixed": true,
-      "nameAr": "الدرعية – الوصيل",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
-      "area": 23071.9482421875
+      "nameAr": "الدرعية – الوصيل- العمارية",
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 23071.9482421875,
+      "owner": "RVC"
     },
     "O15": {
       "coords": [
@@ -7140,27 +7158,63 @@
     "O17": {
       "coords": [
         [
-          24.646300434372876,
-          46.69585883617402
+          24.646256552917343,
+          46.69590175151826
         ],
         [
-          24.644535412554443,
-          46.695799827575684
+          24.645993263860394,
+          46.69727504253388
         ],
         [
-          24.64482308355786,
-          46.69913113117218
+          24.64587624632355,
+          46.69782221317292
         ],
         [
-          24.645651962404802,
-          46.69897019863129
+          24.645837240453567,
+          46.69805824756623
+        ],
+        [
+          24.64561295646477,
+          46.698932647705085
+        ],
+        [
+          24.64524727518447,
+          46.69902384281159
+        ],
+        [
+          24.644827959331877,
+          46.69908821582795
+        ],
+        [
+          24.644720692259718,
+          46.69784903526307
+        ],
+        [
+          24.644696313366836,
+          46.69739842414856
+        ],
+        [
+          24.64464755556677,
+          46.69684052467347
+        ],
+        [
+          24.644623176659614,
+          46.696529388427734
+        ],
+        [
+          24.644584170398247,
+          46.69613242149354
+        ],
+        [
+          24.644579294614736,
+          46.69579446315766
         ]
       ],
       "coordsFixed": true,
       "nameAr": "الرياض – الوشم",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
-      "area": 46953.486328125
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "area": 44886.4970703125
     },
     "O18": {
       "coords": [
@@ -7272,8 +7326,8 @@
       ],
       "coordsFixed": true,
       "nameAr": "الرياض – عليشة (2)",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343,
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
       "area": 220788.447265625
     },
     "O21": {
@@ -7465,8 +7519,8 @@
       "coordsFixed": true,
       "area": 120716.1630859375,
       "nameAr": "أرض المدارس",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593
     },
     "CC57": {
       "coords": [
@@ -7773,8 +7827,8 @@
       "use": "RESIDENTIAL",
       "sec": "campus",
       "city": "الحرم الجامعي",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593
     },
     "N10": {
       "coords": [
@@ -8005,8 +8059,9 @@
       "use": "EDUCATIONAL",
       "sec": "campus",
       "city": "الحرم الجامعي",
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "owner": "الجامعة"
     },
     "N12": {
       "coords": [
@@ -8197,27 +8252,101 @@
       "use": "EDUCATIONAL",
       "sec": "campus",
       "city": "الحرم الجامعي",
-      "area": 5000.015625,
+      "area": 358345.2333984375,
       "coords": [
         [
-          24.724531095663597,
-          46.63374624527633
+          24.723083956664556,
+          46.6356647014618
         ],
         [
-          24.724531095663597,
-          46.63444555709185
+          24.723103447519534,
+          46.63847565650941
         ],
         [
-          24.725166297587048,
-          46.63444555709185
+          24.723922060671853,
+          46.639044284820564
         ],
         [
-          24.725166297587048,
-          46.63374624527633
+          24.72690410589757,
+          46.63929104804993
+        ],
+        [
+          24.7288336264875,
+          46.63823962211609
+        ],
+        [
+          24.729700926498605,
+          46.63745641708375
+        ],
+        [
+          24.730110212044263,
+          46.63655519485474
+        ],
+        [
+          24.731045716806264,
+          46.63473129272461
+        ],
+        [
+          24.72968143667713,
+          46.634559631347656
+        ],
+        [
+          24.730071232526498,
+          46.63262844085694
+        ],
+        [
+          24.729369599118222,
+          46.63177013397217
+        ],
+        [
+          24.72866796175265,
+          46.632757186889656
+        ],
+        [
+          24.727576517985185,
+          46.63288593292237
+        ],
+        [
+          24.72730365554719,
+          46.633787155151374
+        ],
+        [
+          24.726485064642596,
+          46.633358001708984
+        ],
+        [
+          24.725705449250043,
+          46.63237094879151
+        ],
+        [
+          24.72523767766973,
+          46.63267135620117
+        ],
+        [
+          24.72609525755696,
+          46.633744239807136
+        ],
+        [
+          24.727537537673527,
+          46.634302139282234
+        ],
+        [
+          24.727225694740703,
+          46.63546085357666
+        ],
+        [
+          24.725900353556167,
+          46.63584709167481
+        ],
+        [
+          24.72488684783041,
+          46.635503768920906
         ]
       ],
-      "updatedBy": "sync-restore (ksu_map_2026-10-13.html)",
-      "updatedAt": 1791927730343
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "coordsFixed": true,
+      "owner": "الجامعة"
     },
     "N14": {
       "updatedBy": "almutawa@ksu.edu.sa",
@@ -8848,6 +8977,133 @@
       "sec": "campus",
       "city": "الحرم الجامعي",
       "owner": "الجامعة"
+    },
+    "N29": {
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "coords": [
+        [
+          24.645817737514008,
+          46.6980904340744
+        ],
+        [
+          24.64519364184,
+          46.69791072607041
+        ],
+        [
+          24.64474019537059,
+          46.697961688041694
+        ],
+        [
+          24.644769450031205,
+          46.698323786258705
+        ],
+        [
+          24.645091250845663,
+          46.69829428195954
+        ],
+        [
+          24.64515707363735,
+          46.69864296913148
+        ],
+        [
+          24.6457299742483,
+          46.698586642742164
+        ]
+      ],
+      "coordsFixed": true,
+      "area": 6138.142578125,
+      "nameAr": "ارض الوشام -RVC",
+      "owner": "RVC",
+      "use": "MIXED USE",
+      "sec": "out",
+      "city": "الرياض"
+    },
+    "N30": {
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "coords": [
+        [
+          24.635173553879543,
+          46.679202318191535
+        ],
+        [
+          24.63432022458121,
+          46.679690480232246
+        ],
+        [
+          24.63422757704953,
+          46.67819380760193
+        ],
+        [
+          24.633735081122648,
+          46.67742669582368
+        ],
+        [
+          24.63346201323754,
+          46.67753398418427
+        ],
+        [
+          24.633291345506308,
+          46.67712628841401
+        ],
+        [
+          24.633081667688796,
+          46.67696535587311
+        ],
+        [
+          24.631589531663955,
+          46.67687952518464
+        ],
+        [
+          24.6316431708494,
+          46.67616069316865
+        ],
+        [
+          24.63361317589053,
+          46.675474047660835
+        ],
+        [
+          24.633759462154796,
+          46.67641818523408
+        ]
+      ],
+      "coordsFixed": true,
+      "area": 46317.71484375,
+      "nameAr": "ارض عليشة RVC",
+      "owner": "RVC",
+      "use": "MIXED USE",
+      "sec": "out",
+      "city": "الرياض"
+    },
+    "N31": {
+      "updatedBy": "kaledrisi@ksu.edu.sa",
+      "updatedAt": 1792404540593,
+      "coords": [
+        [
+          24.664037030745124,
+          46.73199355602265
+        ],
+        [
+          24.662691516953284,
+          46.732921600341804
+        ],
+        [
+          24.66286701957502,
+          46.73327028751374
+        ],
+        [
+          24.66425153160293,
+          46.73235833644868
+        ]
+      ],
+      "coordsFixed": true,
+      "area": 7504.177734375,
+      "nameAr": "الملز-RVC",
+      "owner": "RVC",
+      "use": "MIXED USE",
+      "sec": "out",
+      "city": "الرياض"
     }
   },
   "users": [
